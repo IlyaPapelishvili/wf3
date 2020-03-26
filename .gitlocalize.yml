@@ -1,4 +1,5 @@
 settings:
+frontmatter_not_escaped: true
   advise_cla_signing: 
     - "true"
   popup_for_contributors:
