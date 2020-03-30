@@ -9,6 +9,8 @@ Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered H
 | столбец 3     | выровнен вправо    | $1600 |
 | столбец 2     | выровнен по центру |   $12 |
 | зебра-строки  | прикольные         |    $1 |
+
+
 ==Подсвеченный текст==
 ~~Зачеркнутый текст~~
 
