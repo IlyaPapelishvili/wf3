@@ -1,6 +1,6 @@
 ---
-layout: post
-title: All Markdown Formats
+layout: Post
+title: Alle Markdown-Formate
 ---
 
 Dillinger ist ein Cloud-fähiger, mobiler Offline-Speicher-AngularJS-basierter HTML5-Markdown-Editor.
@@ -13,10 +13,10 @@ Dillinger ist ein Cloud-fähiger, mobiler Offline-Speicher-AngularJS-basierter H
 --- | :-: | --:
 столбец 3 | выровнен вправо | $ 1600
 столбец 2 | выровнен по центру | $ 12
-зебра-строки | прикольные | $1
+зебра-строки | прикольные | $ 1
 
-==Подсвеченный текст==
-~~Зачеркнутый текст~~
+== Подсвеченный текст ==
+~~ Зачеркнутый текст ~~
 
 # wahr
 
